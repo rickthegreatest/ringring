@@ -1,14 +1,14 @@
 ---
-title: RingRing Support
+title: Rondo Support
 permalink: /support/
 ---
 
-# RingRing Support
+# Rondo Support
 
 *Four boards. One tower. Turn it. Clear it.*
 
 Questions, bugs or ideas: **rickrets@gmail.com**. Please include your device (iPhone, iPad or Mac model), its system
-version and the RingRing version (SETTINGS > CREDITS shows it).
+version and the Rondo version (SETTINGS > CREDITS shows it).
 
 ## How to play
 SETTINGS > HOW TO PLAY replays the 30-second walkthrough.
@@ -49,4 +49,4 @@ COLOUR MARKS, and the colour-blind-safe sets EMBER, HERALDRY and SIGNAL in SETTI
 **How do I earn crowns?** 1 crown for every 1,000 points. Crowns cannot be bought.
 
 ## Privacy
-RingRing collects no data. See the privacy policy: https://rickthegreatest.github.io/ringring/privacy/.
+Rondo collects no data. See the privacy policy: https://rickthegreatest.github.io/ringring/privacy/.

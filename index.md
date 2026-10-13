@@ -1,8 +1,8 @@
 ---
-title: RingRing
+title: Rondo
 ---
 
-# RingRing
+# Rondo
 
 *Four boards. One tower. Turn it. Clear it.*
 
